@@ -1,5 +1,3 @@
-# github.com/bchehraz
-
 # Title: Median Filter (Project 1)
 # Author: Babak Chehraz
 # Abstract: This program takes images
